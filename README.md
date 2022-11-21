@@ -16,4 +16,4 @@ Academic projects and solutions in the following subjects:
 
 - For each subject, first read the assignment at EX*/project/*.pdf
 - Execute the python in EX*/code/ex*.py for my solution.
-
+- For a written solutions, please read EX*/pdf solution file/*.pdf
